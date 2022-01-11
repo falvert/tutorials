@@ -1,6 +1,5 @@
-/**	
-	Development server for socketIO-WebSockets
-	Version 1.0.0
+/**	Development server
+	
 **/
 
 // Requirements
